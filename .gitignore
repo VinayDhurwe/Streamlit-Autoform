@@ -1,0 +1,13 @@
+# Environments
+.venv/
+env/
+
+# Build and PyPI packaging
+dist/
+build/
+*.egg-info/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/

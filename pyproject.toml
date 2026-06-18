@@ -1,0 +1,21 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "streamlit-autoform"
+version = "0.1.0"
+description = "A pure Python Streamlit component to auto-generate forms from Pydantic v2 models."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+    { name = "Your Name", email = "you@example.com" }
+]
+dependencies = [
+    "streamlit>=1.28.0",
+    "pydantic>=2.0.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/yourusername/streamlit-autoform"
