@@ -156,11 +156,4 @@ pytest tests/
 
 This project is open-sourced under the terms of the **MIT License**.
 
-```
 
----
-
-### What's next?
-Your package structure is full, your code is robust, your unit tests are passing, and you have premium documentation. Whenever you feel ready, we can wrap this up by moving to **Step 4: Packaging and Publishing to PyPI** so you can share it with the data science community! How does that sound?
-
-```
